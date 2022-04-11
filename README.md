@@ -1,4 +1,4 @@
-# ⭐ challenge_frontendmentor02
+# ⭐ challenge_frontendmentor03
 
 O projeto foi desenvolvido para as seguintes larguras:
 
